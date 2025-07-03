@@ -17,7 +17,13 @@
   - Measure the usage of metaphors for every author.
 - Identify features that are meant to affect the style of the authors.
   - Topics
+    - Locations/places
+    - Female author maybe different
   - Metaphors
   - Lexicon Richness
   - Syntax/Structure Complexity
   - Text Length
+  - Dialect Use
+    - Classical Arabic vs MSA
+- Augmenting Data for authors with less data
+- Distinguishing between too similar authors
