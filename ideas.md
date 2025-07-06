@@ -2,7 +2,7 @@
 - Topic Analysis
   - Topical (dis-)similarity between authors
   - Making sure it is not turning into a topic classification task (balance is important)
-  - Measure the difference between two authors' topic probability distribution (using KL divergence).
+  - Measure the difference between the two authors' topic probability distribution (using KL divergence).
 - Style Analysis
 
 # Classifier
@@ -18,7 +18,7 @@
 - Identify features that are meant to affect the style of the authors.
   - Topics
     - Locations/places
-    - Female author maybe different
+    - Female authors may be different
   - Metaphors
   - Lexicon Richness
   - Syntax/Structure Complexity
@@ -27,3 +27,4 @@
     - Classical Arabic vs MSA
 - Augmenting Data for authors with less data
 - Distinguishing between too similar authors
+- We can benefit from dates the same way as we might benefit from locations/places.
