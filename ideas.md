@@ -29,3 +29,5 @@
 - Distinguishing between too similar authors
 - We can benefit from dates the same way as we might benefit from locations/places.
 - Choosing a model that absorbs dialect.
+- If we combined BERT with CNN, we would enhance feature representation.
+  - BERT's ability to capture rich contextual understanding of text and CNNs' proficiency in extracting local features and patterns from sequences.
