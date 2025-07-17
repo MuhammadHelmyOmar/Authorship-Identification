@@ -32,3 +32,7 @@
 - If we combined BERT with CNN, we would enhance feature representation.
   - BERT's ability to capture rich contextual understanding of text and CNNs' proficiency in extracting local features and patterns from sequences.
 - Go with the multimodal ensemble approach
+- Try the boosting technique or bagging (ensemble with fully connected Bert models)
+- Increasing weights for representative topics (clusters)
+- Reclustering
+- Trying generative models
