@@ -38,5 +38,6 @@
 - Trying generative models
 
 # Limitations and Future Work
-- Studying the impact of varying the number of the authors
+- Studying the impact of varying the number of authors
+- Lack of previous work for direct comparison
 - 
