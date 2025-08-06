@@ -36,3 +36,7 @@
 - Increasing weights for representative topics (clusters)
 - Reclustering
 - Trying generative models
+
+# Limitations and Future Work
+- Studying the impact of varying the number of the authors
+- 
